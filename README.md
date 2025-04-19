@@ -1,9 +1,4 @@
 
-<p align="center">
-  <img src="https://github.com/amramgad8/hospital-management-db-sqlserver/raw/main/ERD_Hospital/github-banner.png" alt="Hospital Management DB System Banner" width="100%">
-</p>
-
-
 
 # 🏥 Hospital Management Database System
 
