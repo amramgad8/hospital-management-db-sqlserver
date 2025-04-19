@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://github.com/amramgad8/hospital-management-db-sqlserver/raw/main/ERD_Hospital/github-banner.png" alt="Hospital Management DB System Banner" width="100%">
+</p>
+
+
+
 # 🏥 Hospital Management Database System
 
 A full-featured SQL Server-based database system designed to simulate a real-world hospital environment. This project demonstrates entity relationships, business logic automation using stored procedures and triggers, and showcases complex query handling.
